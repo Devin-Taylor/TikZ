@@ -1,2 +1,2 @@
 # TikZ
-Collection of potentially useful TikZ diagrams
+Collection of useful TikZ diagrams
